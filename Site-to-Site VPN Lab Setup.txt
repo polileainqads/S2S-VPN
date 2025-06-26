@@ -129,7 +129,7 @@ conf t
   ip add 192.168.102.12 255.255.255.0
   no shut
  int g3
-  ip add 10.10.10.12 255.255.255.0
+  ip add 20.20.20.12 255.255.255.0
   no shut
  !
  username admin privilege 15 secret pass
